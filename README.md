@@ -3,10 +3,9 @@
 [![GitHub](https://img.shields.io/github/followers/F47E?label=Follow&style=social)](https://github.com/F47E)
 
 ## 🔭 Focus Areas
-- Cybersecurity & Risk Management
+- Cybersecurity
 - Machine Learning & AI Applications
-- Data Pipeline Development
-- Full Stack Development
+- Software Development
 
 ## 🛠️ Technical Stack
 - **Languages:** Python, Bash, JavaScript, HTML/CSS
